@@ -1,1 +1,1 @@
-# Hands-on-Lab-Interactive-Visual-Analytics-with-Folium
+# Hands-on-Lab-Coursera
